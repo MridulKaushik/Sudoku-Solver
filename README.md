@@ -2,6 +2,8 @@
 
 A web-based Sudoku solver that allows users to input a Sudoku puzzle and solve it. Users can also reset the puzzle board.
 
+**Live Demo:** [Sudoku Solver](https://mridulkaushik.github.io/Sudoku-Solver-/)
+
 ## Usage
 
 1. Open the `index.html` file in a web browser.
